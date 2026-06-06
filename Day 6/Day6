@@ -1,0 +1,26 @@
+A resume is often your first interaction with a recruiter. ATS systems scan resumes before a human sees them. Claude can help improve formatting, readability, keyword optimization, and recruiter appeal while keeping every claim truthful.
+NoteGPT helps summarize YouTube videos, articles, PDFs, and web content using AI, making learning faster and more efficient.
+
+As a reminder, Prompt engineering needs to be clear, adding additional guidance, but not too much to constrict the model. Express the desired outcome and provide context specific enough to guide the model.
+Often a trial-and-error process, it is an iterative process.
+Best practices include:
+  Begin with objectives and goals, give a clear purpose.
+  Relevant and Sepcific Data Identification and Usage, only use relevant data to train the model.
+  Find the Relevant Keywords: Keywords allow the model to focus on a specific output.
+  Test and Refine your prompts: Evaluate prompts and continuously refine them.
+
+What i did:
+Uploaded my resume into Claude, used the Prompt template to optimse the resume for ATS analysis.
+Reviewed my ATS-optimised resume and understood how Claude created a 1 page Resume.
+
+What i learned:
+The prompt template seemed to have significant amounts of context and prompt engineering. The Chain-of-Thought engineering seemed to be missing, not a huge issue, but significant enough to notice the difference.
+On second check, there was Chain-Of-Thought reasoning, which helped me understand the process of creating the optimised resume.
+The original resume was already created as I am searching for a job, so i expected it to be a relatively high score (prediction: 80%).
+When i checked the Resume, my score was 52%! That blew my mind as I assumed it was very well done. I learned that certain parts of the resume tends to affect ATS scores negatively, misunderstanding that ATS systems are mapped according to certain keywords.
+I learned that multi page CV's lose metadata and section context.
+The optimised resume produced an ATS score of 88/100, very surprising but the silver lining is that i now understand that resumes can always be iterated and improved.
+
+How i plan to use this:
+I will use Claude to stress-test the ATS-optimised resume and continue to work on improving my understanding of prompt and context engineering.
+I will use this knowledge to continue searching for jobs and not lose hope that there is always an opportunity to learn and improve.
